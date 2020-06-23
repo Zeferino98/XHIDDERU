@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 25771af00fd0860449148e1e65e6c0dd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: surface_000_ref_0
+    100004: surface_001_ref_0
+    100006: surface_002_ref_0
+    100008: surface_003_ref_0
+    100010: surface_004_ref_0
+    100012: surface_005_ref_0
+    100014: surface_006_ref_0
+    100016: surface_007_ref_0
+    100018: surface_008_ref_0
+    100020: surface_009_ref_0
+    100022: surface_010_ref_0
+    100024: surface_011_ref_0
+    100026: surface_012_ref_0
+    100028: surface_013_ref_0
+    100030: surface_014_ref_0
+    100032: surface_015_ref_0
+    100034: surface_016_ref_0
+    100036: surface_017_ref_0
+    400000: //RootNode
+    400002: surface_000_ref_0
+    400004: surface_001_ref_0
+    400006: surface_002_ref_0
+    400008: surface_003_ref_0
+    400010: surface_004_ref_0
+    400012: surface_005_ref_0
+    400014: surface_006_ref_0
+    400016: surface_007_ref_0
+    400018: surface_008_ref_0
+    400020: surface_009_ref_0
+    400022: surface_010_ref_0
+    400024: surface_011_ref_0
+    400026: surface_012_ref_0
+    400028: surface_013_ref_0
+    400030: surface_014_ref_0
+    400032: surface_015_ref_0
+    400034: surface_016_ref_0
+    400036: surface_017_ref_0
+    2300000: surface_000_ref_0
+    2300002: surface_001_ref_0
+    2300004: surface_002_ref_0
+    2300006: surface_003_ref_0
+    2300008: surface_004_ref_0
+    2300010: surface_005_ref_0
+    2300012: surface_006_ref_0
+    2300014: surface_007_ref_0
+    2300016: surface_008_ref_0
+    2300018: surface_009_ref_0
+    2300020: surface_010_ref_0
+    2300022: surface_011_ref_0
+    2300024: surface_012_ref_0
+    2300026: surface_013_ref_0
+    2300028: surface_014_ref_0
+    2300030: surface_015_ref_0
+    2300032: surface_016_ref_0
+    2300034: surface_017_ref_0
+    3300000: surface_000_ref_0
+    3300002: surface_001_ref_0
+    3300004: surface_002_ref_0
+    3300006: surface_003_ref_0
+    3300008: surface_004_ref_0
+    3300010: surface_005_ref_0
+    3300012: surface_006_ref_0
+    3300014: surface_007_ref_0
+    3300016: surface_008_ref_0
+    3300018: surface_009_ref_0
+    3300020: surface_010_ref_0
+    3300022: surface_011_ref_0
+    3300024: surface_012_ref_0
+    3300026: surface_013_ref_0
+    3300028: surface_014_ref_0
+    3300030: surface_015_ref_0
+    3300032: surface_016_ref_0
+    3300034: surface_017_ref_0
+    4300000: surface_000_ref_0
+    4300002: surface_001_ref_0
+    4300004: surface_002_ref_0
+    4300006: surface_003_ref_0
+    4300008: surface_004_ref_0
+    4300010: surface_005_ref_0
+    4300012: surface_006_ref_0
+    4300014: surface_007_ref_0
+    4300016: surface_008_ref_0
+    4300018: surface_009_ref_0
+    4300020: surface_010_ref_0
+    4300022: surface_011_ref_0
+    4300024: surface_012_ref_0
+    4300026: surface_013_ref_0
+    4300028: surface_014_ref_0
+    4300030: surface_015_ref_0
+    4300032: surface_016_ref_0
+    4300034: surface_017_ref_0
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_000_ref_0Mat
+    second: {fileID: 2100000, guid: e468cae8775b49d43988738890be9e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_001_ref_0Mat
+    second: {fileID: 2100000, guid: a43401bb382aae24fb8401f4c5e6e312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_002_ref_0Mat
+    second: {fileID: 2100000, guid: eece627de9aa36a49a23faa84a70e727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_003_ref_0Mat
+    second: {fileID: 2100000, guid: 117ac9c07733c6342ad64b70d90a7414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_004_ref_0Mat
+    second: {fileID: 2100000, guid: 7774815c241b47c47ab2c7ab8628cee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_005_ref_0Mat
+    second: {fileID: 2100000, guid: b286d9870d1a95647862d60c8261ed5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_006_ref_0Mat
+    second: {fileID: 2100000, guid: 445680a35987470459238de23a5afc75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_007_ref_0Mat
+    second: {fileID: 2100000, guid: 0abda06a80ce1684fad8b6c2e76c4d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_008_ref_0Mat
+    second: {fileID: 2100000, guid: 2d53fd8db169ec84eb2d97d897113d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_009_ref_0Mat
+    second: {fileID: 2100000, guid: 9c2e5a88430b4ec4cae1a6d67e8f1a20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_010_ref_0Mat
+    second: {fileID: 2100000, guid: f97d988f74c25dc4cacf54d1953e7a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_011_ref_0Mat
+    second: {fileID: 2100000, guid: 2f4c412380c7d87428cc7248a0924e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_012_ref_0Mat
+    second: {fileID: 2100000, guid: 86db415bd0084c440a252b8a6be2e7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_013_ref_0Mat
+    second: {fileID: 2100000, guid: 855dd50c125f5ac44a3fe1da46b74c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_014_ref_0Mat
+    second: {fileID: 2100000, guid: eaf128b646fa6c54c8dac3b33a033d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_015_ref_0Mat
+    second: {fileID: 2100000, guid: d0547865e2ab0c94f9c17b8c20b6228e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_016_ref_0Mat
+    second: {fileID: 2100000, guid: 0bdc10acc938d9648aa73fcc2bffecba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surface_017_ref_0Mat
+    second: {fileID: 2100000, guid: e419f9cdeedbec546a35f087a6aa8c0e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: "n\xE3o usa esse(Clone)"
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_000_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_001_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_002_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_003_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_004_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_005_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_006_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_007_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_008_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_009_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_010_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_011_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_012_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_013_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_014_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_015_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_016_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: surface_017_ref_0
+      parentName: "n\xE3o usa esse(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

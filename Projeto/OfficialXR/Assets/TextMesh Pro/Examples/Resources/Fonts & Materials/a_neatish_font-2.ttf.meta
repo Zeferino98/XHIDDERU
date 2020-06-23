@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ba8c3d2e7c4f5148b3ba250d1b526c0
+timeCreated: 1512315104
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: a neatish font
+  fontNames:
+  - neatish font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
